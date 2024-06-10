@@ -39,7 +39,7 @@ npm run build
 
 This will re-create the folder /docs with all the necessary files for hosting the website in GitHub Pages.
 
-Modify the configuration file (vite.config.js) for different build configurations and folder structures.
+Modify the configuration file (vite.config.mjs) for different build configurations and folder structures.
 This is a dummy project and is not intended to be a one-fits-all configuration.
 
 ## Credits
